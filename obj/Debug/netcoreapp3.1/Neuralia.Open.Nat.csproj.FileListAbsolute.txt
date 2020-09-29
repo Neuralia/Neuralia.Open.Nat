@@ -1,0 +1,7 @@
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/bin/Debug/netcoreapp3.1/Neuralia.Open.Nat.deps.json
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/bin/Debug/netcoreapp3.1/Neuralia.Open.Nat.dll
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/bin/Debug/netcoreapp3.1/Neuralia.Open.Nat.pdb
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/obj/Debug/netcoreapp3.1/Neuralia.Open.Nat.csprojAssemblyReference.cache
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/obj/Debug/netcoreapp3.1/Neuralia.Open.Nat.csproj.CoreCompileInputs.cache
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/obj/Debug/netcoreapp3.1/Neuralia.Open.Nat.dll
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/obj/Debug/netcoreapp3.1/Neuralia.Open.Nat.pdb

@@ -1,0 +1,13 @@
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/bin/Release/netcoreapp3.1/Neuralia.Open.Nat.deps.json
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/bin/Release/netcoreapp3.1/Neuralia.Open.Nat.dll
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/bin/Release/netcoreapp3.1/Neuralia.Open.Nat.pdb
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/obj/Release/netcoreapp3.1/Neuralia.Open.Nat.csproj.CoreCompileInputs.cache
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/obj/Release/netcoreapp3.1/Neuralia.Open.Nat.dll
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/obj/Release/netcoreapp3.1/Neuralia.Open.Nat.pdb
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.Open.Nat/bin/Release/netcoreapp3.1/Neuralia.Open.Nat.deps.json
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.Open.Nat/bin/Release/netcoreapp3.1/Neuralia.Open.Nat.dll
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.Open.Nat/bin/Release/netcoreapp3.1/Neuralia.Open.Nat.pdb
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.Open.Nat/obj/Release/netcoreapp3.1/Neuralia.Open.Nat.csprojAssemblyReference.cache
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.Open.Nat/obj/Release/netcoreapp3.1/Neuralia.Open.Nat.csproj.CoreCompileInputs.cache
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.Open.Nat/obj/Release/netcoreapp3.1/Neuralia.Open.Nat.dll
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.Open.Nat/obj/Release/netcoreapp3.1/Neuralia.Open.Nat.pdb

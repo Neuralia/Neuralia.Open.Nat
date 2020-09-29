@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
+        <AssemblyName>Neuralia.Open.Nat</AssemblyName>
+        <OutputType>Library</OutputType>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+        <LangVersion>latest</LangVersion>
+        <TargetFrameworks>netstandard2.1;netcoreapp3.1</TargetFrameworks>
+        <RootNamespace>Neuralia.Open.Nat</RootNamespace>
+        <AssemblyName>Neuralia.Open.Nat</AssemblyName>
+    </PropertyGroup>
+
+</Project>
