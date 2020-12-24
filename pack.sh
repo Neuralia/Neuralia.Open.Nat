@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dotnet restore --no-cache
+dotnet restore
 
 if dotnet build -c Release --no-incremental ; then
     if  dotnet pack -c Release -o ./ ; then
