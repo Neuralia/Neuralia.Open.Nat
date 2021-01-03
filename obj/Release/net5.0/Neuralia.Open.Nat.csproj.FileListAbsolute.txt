@@ -1,0 +1,9 @@
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/bin/Release/net5.0/Neuralia.Open.Nat.deps.json
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/bin/Release/net5.0/Neuralia.Open.Nat.dll
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/bin/Release/net5.0/ref/Neuralia.Open.Nat.dll
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/bin/Release/net5.0/Neuralia.Open.Nat.pdb
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/obj/Release/net5.0/Neuralia.Open.Nat.GeneratedMSBuildEditorConfig.editorconfig
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/obj/Release/net5.0/Neuralia.Open.Nat.csproj.CoreCompileInputs.cache
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/obj/Release/net5.0/Neuralia.Open.Nat.dll
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/obj/Release/net5.0/ref/Neuralia.Open.Nat.dll
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.Open.Nat/obj/Release/net5.0/Neuralia.Open.Nat.pdb

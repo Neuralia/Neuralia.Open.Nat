@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Neuralia.Open.Nat/1.0.0": {
+        "runtime": {
+          "Neuralia.Open.Nat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neuralia.Open.Nat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
