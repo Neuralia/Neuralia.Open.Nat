@@ -38,6 +38,16 @@ namespace Open.Nat
 {
 	internal sealed class UpnpNatDevice : NatDevice
 	{
+		public override IPEndPoint HostEndPoint
+		{
+			get { return DeviceInfo.HostEndPoint; }
+		}
+
+		public override IPAddress LocalAddress
+		{
+			get { return DeviceInfo.LocalAddress; }
+		}
+
 		internal readonly UpnpNatDeviceInfo DeviceInfo;
 		private readonly SoapClient _soapClient;
 
@@ -187,7 +197,6 @@ namespace Open.Nat
 				}
 			}
 			if (retry)
-				//TODO: this is a recursive loop, VERY dangerous!
 				await CreatePortMapAsync(mapping);
 		}
 #endif
@@ -353,13 +362,14 @@ namespace Open.Nat
 				catch (MappingException e)
 				{
 					// there are no more mappings
-					if (e.ErrorCode == UpnpConstants.ArgumentValueOutOfRange 
-					 || e.ErrorCode == UpnpConstants.SpecifiedArrayIndexInvalid
+					if (e.ErrorCode == UpnpConstants.SpecifiedArrayIndexInvalid
 					 || e.ErrorCode == UpnpConstants.NoSuchEntryInArray
 					 // DD-WRT Linux base router (and others probably) fails with 402-InvalidArgument when index is out of range
 					 || e.ErrorCode == UpnpConstants.InvalidArguments
 					 // LINKSYS WRT1900AC AC1900 it returns errocode 501-PAL_UPNP_SOAP_E_ACTION_FAILED
-					 || e.ErrorCode == UpnpConstants.ActionFailed)
+					 || e.ErrorCode == UpnpConstants.ActionFailed
+					 // LINKSYS EA8500 returns error code 601
+					 || e.ErrorCode == UpnpConstants.ArgumentValueOutOfRange)
 					{
 						NatDiscoverer.TraceSource.LogWarn("Router failed with {0}-{1}. No more mappings is assumed.", e.ErrorCode, e.ErrorText);
 						break; 
